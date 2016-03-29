@@ -1,0 +1,5 @@
+name: ItemName
+version: 1.0.0
+api: 2.0.0
+author: TheAbel
+main: ItemName\Main
